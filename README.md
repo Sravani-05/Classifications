@@ -6,4 +6,3 @@ Clustering - Level Beginner : https://colab.research.google.com/drive/1CxGMQ5I2M
 Anomaly Detection - Level Beginner : https://colab.research.google.com/drive/1dfw7AIYxjFfHsQSwCwXx6Elmsy7BUB6D?usp=sharing
 Association Rules Mining - Level Beginner : https://colab.research.google.com/drive/1vpQ9-fwroD7_K7sm8LAjpj3jcD5OD1fa?usp=sharing
 Time Series Forecasting - Univariate without Exogenous Variables : https://colab.research.google.com/drive/1vpQ9-fwroD7_K7sm8LAjpj3jcD5OD1fa?usp=sharing
-Time Series Forecasting - Univariate with Exogenous Variables : https://colab.research.google.com/drive/1CxGMQ5I2MycdU5OqD32kObUKSp2V7Fnj?usp=sharing
